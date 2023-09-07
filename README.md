@@ -4,7 +4,7 @@
 The need to efficiently manage thresholds and alerts has become more critical as the number of projects and services has grown.
 The goal of this project is to provide a centralized service that will manage thresholds and alerts for all projects and services.
 
-=== A New Paradigm: Streamlined Alert Management
+A New Paradigm: Streamlined Alert Management
 At its core, this project introduces a novel service that redefines how alerts and thresholds are managed.
 Instead of defining some alerts in your project, we're introducing a unified service that takes charge of the alerts and thresholds logic.
 This centralized approach not only saves valuable time but also enhances the consistency and accuracy of alert management.
